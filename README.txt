@@ -1,0 +1,2 @@
+This is a simple project using python, to read dbf's files.
+when executing the script, a screen will appear with only one button and a tableview, when clicking on the button, you will be directed to your OS explorer, to choose a dbf file.
